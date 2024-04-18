@@ -26,7 +26,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Database Table Example</title>
+    <title>Database Table</title>
     <style>
         table {
             border-collapse: collapse;
@@ -44,7 +44,7 @@ $conn->close();
 </head>
 <body>
 
-<h2>Database Table Example</h2>
+<h2>Database Table</h2>
 
 <table>
     <tr>
