@@ -49,8 +49,8 @@ $conn->close();
 <table>
     <tr>
         <th>ID</th>
-        <th>Name</th>
-        <th>Email</th>
+        <th>Temperature</th>
+        <th>Humidity</th>
     </tr>
     <?php
     // Loop through the retrieved data and display it in a table
